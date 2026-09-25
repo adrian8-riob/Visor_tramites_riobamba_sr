@@ -1,0 +1,3425 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00001",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-04-25",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "INGRESADO",
+        "clave_catastral": "0601210053353"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.649441,
+          -1.674729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00002",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-08-05",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "INGRESADO",
+        "clave_catastral": "0601200604502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.657381,
+          -1.691907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00003",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-04-12",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601853041955"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.645677,
+          -1.661364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00004",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-01-04",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601271432881"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.654778,
+          -1.674966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00005",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-06-22",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "INGRESADO",
+        "clave_catastral": "0601507943839"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.65092,
+          -1.68164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00006",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-01-23",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601675770529"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.632078,
+          -1.661927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00007",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-05-31",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601764130526"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.631999,
+          -1.657034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00008",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-02-05",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "INGRESADO",
+        "clave_catastral": "0601344703907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.640875,
+          -1.679246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00009",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-02-21",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601586845604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.643807,
+          -1.694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00010",
+        "tipo_tramite": "CERTIFICADO DE JURISDICCION",
+        "fecha_ingreso": "2026-04-18",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601853573823"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.65427,
+          -1.680174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00011",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-03-29",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601362863730"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.634678,
+          -1.678601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00012",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-04-23",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601924970419"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.642943,
+          -1.664642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00013",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-06-11",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601171069472"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.646827,
+          -1.680117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00014",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-06-11",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601636045484"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.642192,
+          -1.651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00015",
+        "tipo_tramite": "CERTIFICADO DE JURISDICCION",
+        "fecha_ingreso": "2026-05-16",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "INGRESADO",
+        "clave_catastral": "0601899925830"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.66558,
+          -1.659475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00016",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-07-24",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601248532577"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.655235,
+          -1.675937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00017",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-02-26",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "INGRESADO",
+        "clave_catastral": "0601271779360"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.652358,
+          -1.673261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00018",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-07-15",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601602564736"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.645263,
+          -1.683109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00019",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-01-06",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601222998994"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.669,
+          -1.677843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00020",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-06-24",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "INGRESADO",
+        "clave_catastral": "0601566825638"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.653163,
+          -1.684284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00021",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-05-15",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601918150683"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.64756,
+          -1.672324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00022",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-06-02",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601645098869"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.63843,
+          -1.653102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00023",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-01-01",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601624636385"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.652462,
+          -1.676643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00024",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-06-07",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601358633898"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.626,
+          -1.670192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00025",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-09-06",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601916690353"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.630543,
+          -1.689809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00026",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-03-26",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601751325257"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.653076,
+          -1.674058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00027",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-04-13",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601528414718"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.65411,
+          -1.669796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00028",
+        "tipo_tramite": "CERTIFICADO DE JURISDICCION",
+        "fecha_ingreso": "2026-08-20",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "INGRESADO",
+        "clave_catastral": "0601341266931"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.633519,
+          -1.673441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00029",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-04-23",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "INGRESADO",
+        "clave_catastral": "0601860038427"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.646103,
+          -1.672193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00030",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-06-19",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "INGRESADO",
+        "clave_catastral": "0601355555531"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6529,
+          -1.678291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00031",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-08-31",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601607850824"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.650052,
+          -1.661657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00032",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-08-09",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601541417711"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.645703,
+          -1.67908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00033",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-02-20",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "INGRESADO",
+        "clave_catastral": "0601881913386"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.663816,
+          -1.669675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00034",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-04-08",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601250519597"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.658584,
+          -1.656159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00035",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-02-08",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601690907304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.655127,
+          -1.669191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00036",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-01-08",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601909134796"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.636132,
+          -1.664613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00037",
+        "tipo_tramite": "CERTIFICADO DE JURISDICCION",
+        "fecha_ingreso": "2026-04-20",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601162959284"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.644495,
+          -1.677908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00038",
+        "tipo_tramite": "CERTIFICADO DE JURISDICCION",
+        "fecha_ingreso": "2026-08-21",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601847959430"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.647664,
+          -1.672435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00039",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-09-07",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "INGRESADO",
+        "clave_catastral": "0601418587604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.626,
+          -1.681697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00040",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-02-01",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601161380746"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6473,
+          -1.6696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00041",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-03-22",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "INGRESADO",
+        "clave_catastral": "0601645276696"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.637178,
+          -1.669473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00042",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-05-01",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601711684318"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.642383,
+          -1.669907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00043",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-08-03",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601706907788"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.647681,
+          -1.659567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00044",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-06-10",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601524971817"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.669,
+          -1.676333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00045",
+        "tipo_tramite": "CERTIFICADO DE JURISDICCION",
+        "fecha_ingreso": "2026-02-07",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "INGRESADO",
+        "clave_catastral": "0601766964667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.638199,
+          -1.662447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00046",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-04-20",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601242224154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.626,
+          -1.673323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00047",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-07-09",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601570497096"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.62916,
+          -1.681399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00048",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-01-05",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601695499669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.640168,
+          -1.686484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00049",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-03-10",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601214929002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.652505,
+          -1.658948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00050",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-04-18",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601318610946"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.648277,
+          -1.678806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00051",
+        "tipo_tramite": "CERTIFICADO DE JURISDICCION",
+        "fecha_ingreso": "2026-05-09",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601154544899"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.655493,
+          -1.691089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00052",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-01-02",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601240466536"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.639219,
+          -1.667248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00053",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-08-07",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601220123666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.653076,
+          -1.678914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00054",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-01-19",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601725464884"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.629553,
+          -1.663565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00055",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-07-06",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601954829815"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.658027,
+          -1.676435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00056",
+        "tipo_tramite": "CERTIFICADO DE JURISDICCION",
+        "fecha_ingreso": "2026-05-08",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601479759538"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.64519,
+          -1.673496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00057",
+        "tipo_tramite": "CERTIFICADO DE JURISDICCION",
+        "fecha_ingreso": "2026-03-21",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601354194771"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.644095,
+          -1.693392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00058",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-07-31",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "INGRESADO",
+        "clave_catastral": "0601890880074"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.629968,
+          -1.693555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00059",
+        "tipo_tramite": "CERTIFICADO DE JURISDICCION",
+        "fecha_ingreso": "2026-05-08",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601945436943"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.632465,
+          -1.680979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00060",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-08-29",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601976803188"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.650959,
+          -1.682363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00061",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-04-27",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601808705238"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.639915,
+          -1.677548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00062",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-05-23",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601646970178"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.64488,
+          -1.664643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00063",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-01-15",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "INGRESADO",
+        "clave_catastral": "0601380477683"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.669,
+          -1.656389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00064",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-02-25",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601471178705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.636879,
+          -1.651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00065",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-03-01",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601719106699"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.649166,
+          -1.681598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00066",
+        "tipo_tramite": "CERTIFICADO DE JURISDICCION",
+        "fecha_ingreso": "2026-04-11",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601175133802"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.646892,
+          -1.670198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00067",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-03-05",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601422468580"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.626633,
+          -1.68011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00068",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-06-01",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601305986733"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.662813,
+          -1.673663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00069",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-03-31",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601423142470"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.668841,
+          -1.661618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00070",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-04-18",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601722753913"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.663739,
+          -1.662459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00071",
+        "tipo_tramite": "CERTIFICADO DE JURISDICCION",
+        "fecha_ingreso": "2026-04-20",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601952266893"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.654912,
+          -1.678478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00072",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-02-13",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601812807629"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.633497,
+          -1.683374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00073",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-05-01",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601341206079"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.654063,
+          -1.6797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00074",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-09-01",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601925159146"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.646035,
+          -1.678294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00075",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-04-10",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601512293741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.638719,
+          -1.668429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00076",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-01-03",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601926830795"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.655475,
+          -1.672736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00077",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-08-26",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "INGRESADO",
+        "clave_catastral": "0601367574609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.634944,
+          -1.684443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00078",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-08-26",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601700141462"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.643582,
+          -1.675521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00079",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-08-07",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601688273030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.668208,
+          -1.686818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00080",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-08-19",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601365471644"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.653551,
+          -1.671037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00081",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-09-06",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601394846763"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.643687,
+          -1.679809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00082",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-06-21",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601679984033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.662697,
+          -1.667167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00083",
+        "tipo_tramite": "CERTIFICADO DE JURISDICCION",
+        "fecha_ingreso": "2026-03-20",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601168965204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.642999,
+          -1.670227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00084",
+        "tipo_tramite": "CERTIFICADO DE JURISDICCION",
+        "fecha_ingreso": "2026-02-01",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601551125671"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.655712,
+          -1.66843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00085",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-01-11",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601922050912"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.66117,
+          -1.662032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00086",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-06-02",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601997356828"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.658122,
+          -1.678213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00087",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-04-23",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601393062061"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.66249,
+          -1.664918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00088",
+        "tipo_tramite": "CERTIFICADO DE JURISDICCION",
+        "fecha_ingreso": "2026-07-27",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601601856351"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.650233,
+          -1.672048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00089",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-07-21",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601811890569"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.626,
+          -1.686609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00090",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-08-25",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601379340713"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.63386,
+          -1.670569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00091",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-07-14",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601993271900"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.653001,
+          -1.668251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00092",
+        "tipo_tramite": "CERTIFICADO DE JURISDICCION",
+        "fecha_ingreso": "2026-01-27",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601475767056"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.664722,
+          -1.66402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00093",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-01-21",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601365518424"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.647392,
+          -1.669279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00094",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-03-06",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601222824732"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.647365,
+          -1.671073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00095",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-07-08",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "INGRESADO",
+        "clave_catastral": "0601752027025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.654453,
+          -1.675743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00096",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-03-25",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601216070149"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.632492,
+          -1.676596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00097",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-07-12",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601867741192"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.66824,
+          -1.68391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00098",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-05-05",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "INGRESADO",
+        "clave_catastral": "0601929445037"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.643728,
+          -1.660308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00099",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-01-22",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601559967386"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.652836,
+          -1.658606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00100",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-01-07",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601982971099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.649995,
+          -1.676211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00101",
+        "tipo_tramite": "CERTIFICADO DE JURISDICCION",
+        "fecha_ingreso": "2026-08-24",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601567600762"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.658641,
+          -1.672344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00102",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-09-05",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601986625773"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.642563,
+          -1.662139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00103",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-02-14",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601584044963"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.64894,
+          -1.68085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00104",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-07-14",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601630757561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.647569,
+          -1.661828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00105",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-05-13",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601740116562"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.644245,
+          -1.678103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00106",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-04-08",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "INGRESADO",
+        "clave_catastral": "0601873174285"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.650428,
+          -1.680666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00107",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-09-01",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601627015393"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.658591,
+          -1.66594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00108",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-07-27",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601428786222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.649767,
+          -1.672403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00109",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-06-26",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601900942073"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.652939,
+          -1.681228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00110",
+        "tipo_tramite": "CERTIFICADO DE JURISDICCION",
+        "fecha_ingreso": "2026-06-06",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601229553265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.656849,
+          -1.675899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00111",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-04-05",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601893070706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.649563,
+          -1.681567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00112",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-05-25",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601994027897"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.66398,
+          -1.671408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00113",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-01-08",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601235917419"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.645529,
+          -1.666254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00114",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-03-06",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601908304440"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.652117,
+          -1.651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00115",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-08-29",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601465830215"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.668271,
+          -1.671837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00116",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-09-02",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "INGRESADO",
+        "clave_catastral": "0601170161976"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.646698,
+          -1.670024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00117",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-01-28",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "INGRESADO",
+        "clave_catastral": "0601970957171"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.651184,
+          -1.670708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00118",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-03-02",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601546863451"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.655856,
+          -1.676274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00119",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-07-14",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601575368059"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.661885,
+          -1.683956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00120",
+        "tipo_tramite": "CERTIFICADO DE JURISDICCION",
+        "fecha_ingreso": "2026-01-31",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601894664845"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.651907,
+          -1.660259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00121",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-05-16",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601268638768"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.634229,
+          -1.663096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00122",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-07-29",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601737599912"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.647194,
+          -1.660353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00123",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-05-25",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601587512424"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.65053,
+          -1.672516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00124",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-04-12",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601684719405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.641426,
+          -1.669847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00125",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-03-14",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "INGRESADO",
+        "clave_catastral": "0601278158234"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.647105,
+          -1.667391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00126",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-05-28",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601603260608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.644441,
+          -1.685967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00127",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-09-14",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601570040006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.65383,
+          -1.687375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00128",
+        "tipo_tramite": "CERTIFICADO DE JURISDICCION",
+        "fecha_ingreso": "2026-06-15",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601127772220"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.645504,
+          -1.671619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00129",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-01-11",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601821856853"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.62653,
+          -1.659122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00130",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-03-31",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601799552991"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.642315,
+          -1.684807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00131",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-08-12",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601627986559"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.655548,
+          -1.670133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00132",
+        "tipo_tramite": "CERTIFICADO DE JURISDICCION",
+        "fecha_ingreso": "2026-06-14",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601272684373"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.636944,
+          -1.675177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00133",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-07-25",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601690661740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.655394,
+          -1.659511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00134",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-03-01",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601533979662"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.64382,
+          -1.672019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00135",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-08-25",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601301415220"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.635662,
+          -1.68701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00136",
+        "tipo_tramite": "CERTIFICADO DE JURISDICCION",
+        "fecha_ingreso": "2026-08-15",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601318568997"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.661867,
+          -1.674614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00137",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-09-06",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "INGRESADO",
+        "clave_catastral": "0601776481264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.648567,
+          -1.667731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00138",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-01-08",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601200082623"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.653732,
+          -1.677674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00139",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-03-02",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601265325235"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.644962,
+          -1.654051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00140",
+        "tipo_tramite": "CERTIFICADO DE JURISDICCION",
+        "fecha_ingreso": "2026-05-20",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601618079974"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.663879,
+          -1.672838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00141",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-07-16",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601743576792"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.640583,
+          -1.673925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00142",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-05-22",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601545541033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.668538,
+          -1.674064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00143",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-01-02",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601420571903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.657422,
+          -1.658127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00144",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-03-18",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601620057604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.64112,
+          -1.684231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00145",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-08-22",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601302563940"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.65513,
+          -1.662526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00146",
+        "tipo_tramite": "CERTIFICADO DE JURISDICCION",
+        "fecha_ingreso": "2026-07-30",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "INGRESADO",
+        "clave_catastral": "0601899621068"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.640666,
+          -1.67389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00147",
+        "tipo_tramite": "CERTIFICADO DE JURISDICCION",
+        "fecha_ingreso": "2026-03-19",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601139749508"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.669,
+          -1.669262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00148",
+        "tipo_tramite": "CERTIFICADO DE JURISDICCION",
+        "fecha_ingreso": "2026-02-21",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601572775194"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.629807,
+          -1.65452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00149",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-03-15",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601803066091"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.630205,
+          -1.66012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00150",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-05-16",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601843785903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.644126,
+          -1.67374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00151",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-07-14",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601773020489"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.651272,
+          -1.670543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00152",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-01-19",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601352082631"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.651296,
+          -1.689555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00153",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-02-16",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601205702499"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.663301,
+          -1.689534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00154",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-03-27",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601131081879"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.646984,
+          -1.688568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00155",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-07-11",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601362204999"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.630905,
+          -1.667918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00156",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-03-29",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "INGRESADO",
+        "clave_catastral": "0601754436820"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.660672,
+          -1.675514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00157",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-03-15",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601784944881"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.638428,
+          -1.683086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00158",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-08-27",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601827579147"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.648192,
+          -1.665324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00159",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-06-03",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601555598254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.651751,
+          -1.674131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00160",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-07-16",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601214518079"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.652047,
+          -1.683281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00161",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-06-01",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "INGRESADO",
+        "clave_catastral": "0601991246046"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.646954,
+          -1.660016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00162",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-01-26",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601900122509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.652367,
+          -1.679716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00163",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-04-28",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601478301747"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.669,
+          -1.672555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00164",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-03-12",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601773728014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.646743,
+          -1.666628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00165",
+        "tipo_tramite": "CERTIFICADO DE JURISDICCION",
+        "fecha_ingreso": "2026-07-06",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601196779973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.653212,
+          -1.679837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00166",
+        "tipo_tramite": "CERTIFICADO DE JURISDICCION",
+        "fecha_ingreso": "2026-04-13",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "INGRESADO",
+        "clave_catastral": "0601679184667"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.640501,
+          -1.677784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00167",
+        "tipo_tramite": "CERTIFICADO DE JURISDICCION",
+        "fecha_ingreso": "2026-05-20",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601375919523"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.641189,
+          -1.679687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00168",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-06-01",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601463692735"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.627395,
+          -1.685353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00169",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-04-26",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601877621770"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.644243,
+          -1.683594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00170",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-07-07",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "INGRESADO",
+        "clave_catastral": "0601523671208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.652603,
+          -1.681951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00171",
+        "tipo_tramite": "CERTIFICADO DE JURISDICCION",
+        "fecha_ingreso": "2026-05-15",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601983063850"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.635645,
+          -1.671917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00172",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-08-30",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "INGRESADO",
+        "clave_catastral": "0601702806585"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.65421,
+          -1.680369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00173",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-08-26",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601424474225"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.654461,
+          -1.660891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00174",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-01-20",
+        "plataforma": "Plataforma C",
+        "parroquia": "San Luis",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601628951656"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.650947,
+          -1.677016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00175",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-07-18",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601819929088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.642546,
+          -1.668123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00176",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-03-21",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601803217037"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.633332,
+          -1.677829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00177",
+        "tipo_tramite": "CERTIFICADO DE JURISDICCION",
+        "fecha_ingreso": "2026-05-24",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "INGRESADO",
+        "clave_catastral": "0601497853519"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.638579,
+          -1.666243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00178",
+        "tipo_tramite": "IPRUS",
+        "fecha_ingreso": "2026-07-05",
+        "plataforma": "Plataforma B",
+        "parroquia": "Velasco",
+        "estado": "INGRESADO",
+        "clave_catastral": "0601836243579"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.645785,
+          -1.662382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00179",
+        "tipo_tramite": "TRANSFERENCIA DE DOMINIO",
+        "fecha_ingreso": "2026-02-01",
+        "plataforma": "Plataforma A",
+        "parroquia": "Lizarzaburu",
+        "estado": "EN REVISION",
+        "clave_catastral": "0601303805386"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.66248,
+          -1.657054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_tramite": "TR-00180",
+        "tipo_tramite": "INGRESO AL CATASTRO",
+        "fecha_ingreso": "2026-02-16",
+        "plataforma": "Plataforma D",
+        "parroquia": "Licto",
+        "estado": "ATENDIDO",
+        "clave_catastral": "0601789024924"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.626,
+          -1.677841
+        ]
+      }
+    }
+  ]
+}

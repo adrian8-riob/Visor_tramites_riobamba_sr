@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Visor de Trámites Territoriales</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+  <header class="app-header">
+    <div>
+      <div class="eyebrow">GAD Municipal · Geoportal operativo</div>
+      <h1 id="appTitle">Visor de Trámites Territoriales</h1>
+      <p id="appSubtitle">Distribución, frecuencia y evolución temporal de los trámites municipales</p>
+    </div>
+    <div class="header-actions">
+      <button id="btnHome" class="btn secondary">⌂ Vista inicial</button>
+      <button id="btnReload" class="btn secondary">↻ Recargar datos</button>
+    </div>
+  </header>
+
+  <main class="layout">
+    <aside class="sidebar">
+      <section class="panel">
+        <div class="panel-title-row">
+          <h2>Filtros</h2><span class="pill" id="filterStatus">Sin filtros</span>
+        </div>
+        <label>Tipo de trámite
+          <select id="filterTipo"><option value="">Todos</option></select>
+        </label>
+        <label>Agrupación territorial
+          <select id="territoryMode">
+            <option value="plataforma">Plataforma</option>
+            <option value="parroquia">Parroquia</option>
+          </select>
+        </label>
+        <label>Territorio
+          <select id="filterTerritorio"><option value="">Todos</option></select>
+        </label>
+        <div class="date-grid">
+          <label>Desde<input type="date" id="filterDesde" /></label>
+          <label>Hasta<input type="date" id="filterHasta" /></label>
+        </div>
+        <div class="button-row">
+          <button id="btnApply" class="btn primary">Aplicar</button>
+          <button id="btnClear" class="btn ghost">Limpiar</button>
+        </div>
+      </section>
+
+      <section class="panel">
+        <h2>Capas visibles</h2>
+        <div id="layerList" class="layer-list"></div>
+        <label class="toggle-row"><input type="checkbox" id="toggleHeat" /> Densidad de trámites</label>
+      </section>
+
+      <section class="panel">
+        <h2>Cargar datos</h2>
+        <p class="small">Para una prueba rápida puedes cargar archivos GeoJSON en WGS84 (EPSG:4326).</p>
+        <label class="file-label">Cargar trámites GeoJSON
+          <input id="fileTramites" type="file" accept=".geojson,.json" />
+        </label>
+        <label class="file-label">Agregar capa GeoJSON
+          <input id="fileGeneric" type="file" accept=".geojson,.json" />
+        </label>
+      </section>
+
+      <section class="panel legend-panel">
+        <h2>Leyenda</h2>
+        <div id="legend"></div>
+      </section>
+    </aside>
+
+    <section class="workspace">
+      <div class="kpi-grid">
+        <article class="kpi"><span>Total trámites</span><strong id="kpiTotal">0</strong><small>según filtros activos</small></article>
+        <article class="kpi"><span>Trámite más frecuente</span><strong id="kpiTopTipo">—</strong><small id="kpiTopTipoN">0 registros</small></article>
+        <article class="kpi"><span>Territorio con más trámites</span><strong id="kpiTopTerritorio">—</strong><small id="kpiTopTerritorioN">0 registros</small></article>
+        <article class="kpi"><span>Frecuencia promedio</span><strong id="kpiFreq">0</strong><small>trámites por día del período</small></article>
+      </div>
+
+      <div class="content-grid">
+        <div class="map-card">
+          <div id="map"></div>
+          <div id="mapMessage" class="map-message hidden"></div>
+        </div>
+        <div class="charts-column">
+          <article class="chart-card"><h3>Trámites por tipo</h3><canvas id="chartTipo"></canvas></article>
+          <article class="chart-card"><h3 id="territoryChartTitle">Trámites por plataforma</h3><canvas id="chartTerritorio"></canvas></article>
+          <article class="chart-card"><h3>Evolución temporal</h3><canvas id="chartTiempo"></canvas></article>
+        </div>
+      </div>
+
+      <article class="table-card">
+        <div class="panel-title-row"><h3>Últimos trámites filtrados</h3><span id="tableCount" class="pill">0</span></div>
+        <div class="table-wrap">
+          <table>
+            <thead><tr><th>Fecha</th><th>Tipo</th><th>Plataforma</th><th>Parroquia</th><th>Estado</th><th>ID</th></tr></thead>
+            <tbody id="tableBody"></tbody>
+          </table>
+        </div>
+      </article>
+    </section>
+  </main>
+
+  <footer>Visor Territorial de Trámites · Leaflet + Chart.js · Capas institucionales cargadas</footer>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+  <script src="https://unpkg.com/leaflet.heat@0.2.0/dist/leaflet-heat.js"></script>
+  <script src="assets/js/config.js"></script>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>

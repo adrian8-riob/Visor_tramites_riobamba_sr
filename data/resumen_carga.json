@@ -1,0 +1,15 @@
+{
+  "tramites_total": 593,
+  "por_tipo": {
+    "IPRUS": 394,
+    "EXCEDENTES": 175,
+    "TRANSFERENCIA DE DOMINIO": 24
+  },
+  "fechas_validas": 557,
+  "fechas_revisar": 36,
+  "dentro_parroquia": 591,
+  "fuera_parroquia": 2,
+  "dentro_plataforma": 381,
+  "fuera_plataforma": 212,
+  "riobamba_fuera_plataforma": 80
+}
